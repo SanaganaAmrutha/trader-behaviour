@@ -47,17 +47,7 @@ Actionable Insights Extraction (turning analysis into strategy recommendations)
 
 * How to Run
 
-Clone this repo:
-
-git clone https://github.com/<your-username>/trader-behavior-insights.git
-cd trader-behavior-insights
-
-
-Open notebook.ipynb in Jupyter Notebook or Google Colab
-
-Install required libraries:
-
-pip install pandas numpy matplotlib seaborn scipy
-
-
-Run all cells to reproduce the analysis.
+1. Clone this repository.
+2. Download the datasets from the provided Google Drive links.
+3. Open `Trader_Insights.ipynb` in Jupyter Notebook.
+4. Run all cells sequentially to reproduce analysis, visualizations, and insights.
