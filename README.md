@@ -49,5 +49,5 @@ Actionable Insights Extraction (turning analysis into strategy recommendations)
 
 1. Clone this repository.
 2. Download the datasets from the provided Google Drive links.
-3. Open `Trader_Insights.ipynb` in Jupyter Notebook.
+3. Open `Untitled-checkpoint.ipynb` in Jupyter Notebook.
 4. Run all cells sequentially to reproduce analysis, visualizations, and insights.
